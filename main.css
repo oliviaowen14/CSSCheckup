@@ -1,0 +1,18 @@
+#wrapper {
+    background-color: red;
+    text-align:center;
+    margin: 200px;
+
+
+}
+.address {
+    text-decoration-color: green; 
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.date {
+    text-decoration-color: green;
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
